@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "HTML and CSS Basics",
+    "career_goal": "Full Stack Developer",
+    "level": "Beginner",
+    "hours": 8,
+    "value": 9,
+    "description": "Learn the foundation of web development with HTML5 and CSS3."
+  },
+  {
+    "id": 2,
+    "title": "JavaScript Fundamentals",
+    "career_goal": "Full Stack Developer",
+    "level": "Beginner",
+    "hours": 12,
+    "value": 10,
+    "description": "Master core JavaScript concepts including ES6+ features."
+  },
+  {
+    "id": 3,
+    "title": "React.js for Frontend",
+    "career_goal": "Full Stack Developer",
+    "level": "Intermediate",
+    "hours": 15,
+    "value": 9,
+    "description": "Build modern single-page applications with React.js."
+  },
+  {
+    "id": 4,
+    "title": "Node.js and Express Backend",
+    "career_goal": "Full Stack Developer",
+    "level": "Intermediate",
+    "hours": 14,
+    "value": 9,
+    "description": "Create robust server-side applications with Node.js and Express."
+  },
+  {
+    "id": 5,
+    "title": "MongoDB and Database Design",
+    "career_goal": "Full Stack Developer",
+    "level": "Intermediate",
+    "hours": 10,
+    "value": 8,
+    "description": "Design and manage NoSQL databases using MongoDB."
+  },
+  {
+    "id": 6,
+    "title": "Full Stack Deployment and DevOps",
+    "career_goal": "Full Stack Developer",
+    "level": "Advanced",
+    "hours": 12,
+    "value": 7,
+    "description": "Deploy full stack apps using CI/CD pipelines and cloud services."
+  },
+  {
+    "id": 7,
+    "title": "TypeScript Mastery",
+    "career_goal": "Full Stack Developer",
+    "level": "Advanced",
+    "hours": 10,
+    "value": 8,
+    "description": "Add type safety to JavaScript projects using TypeScript."
+  },
+  {
+    "id": 8,
+    "title": "Python for Data Science",
+    "career_goal": "Data Scientist",
+    "level": "Beginner",
+    "hours": 10,
+    "value": 10,
+    "description": "Learn Python fundamentals tailored for data analysis workflows."
+  },
+  {
+    "id": 9,
+    "title": "Statistics and Probability",
+    "career_goal": "Data Scientist",
+    "level": "Beginner",
+    "hours": 8,
+    "value": 9,
+    "description": "Understand statistical methods essential for data science."
+  },
+  {
+    "id": 10,
+    "title": "Pandas and Data Wrangling",
+    "career_goal": "Data Scientist",
+    "level": "Beginner",
+    "hours": 7,
+    "value": 8,
+    "description": "Master data manipulation and cleaning with Pandas library."
+  },
+  {
+    "id": 11,
+    "title": "Data Visualization with Matplotlib",
+    "career_goal": "Data Scientist",
+    "level": "Intermediate",
+    "hours": 6,
+    "value": 7,
+    "description": "Create impactful visualizations using Matplotlib and Seaborn."
+  },
+  {
+    "id": 12,
+    "title": "Machine Learning Fundamentals",
+    "career_goal": "Data Scientist",
+    "level": "Intermediate",
+    "hours": 18,
+    "value": 10,
+    "description": "Learn supervised and unsupervised ML algorithms from scratch."
+  },
+  {
+    "id": 13,
+    "title": "SQL for Data Analysis",
+    "career_goal": "Data Scientist",
+    "level": "Intermediate",
+    "hours": 8,
+    "value": 8,
+    "description": "Write complex SQL queries for data extraction and reporting."
+  },
+  {
+    "id": 14,
+    "title": "Advanced ML and Model Tuning",
+    "career_goal": "Data Scientist",
+    "level": "Advanced",
+    "hours": 14,
+    "value": 9,
+    "description": "Hyperparameter tuning, ensemble methods, and model deployment."
+  },
+  {
+    "id": 15,
+    "title": "Mathematics for AI",
+    "career_goal": "AI/ML Engineer",
+    "level": "Beginner",
+    "hours": 12,
+    "value": 9,
+    "description": "Linear algebra, calculus, and optimization for machine learning."
+  },
+  {
+    "id": 16,
+    "title": "Python Programming for AI",
+    "career_goal": "AI/ML Engineer",
+    "level": "Beginner",
+    "hours": 10,
+    "value": 10,
+    "description": "Python programming with focus on AI/ML libraries and tools."
+  },
+  {
+    "id": 17,
+    "title": "Deep Learning with TensorFlow",
+    "career_goal": "AI/ML Engineer",
+    "level": "Intermediate",
+    "hours": 16,
+    "value": 10,
+    "description": "Build neural networks using TensorFlow and Keras framework."
+  },
+  {
+    "id": 18,
+    "title": "Natural Language Processing",
+    "career_goal": "AI/ML Engineer",
+    "level": "Intermediate",
+    "hours": 14,
+    "value": 9,
+    "description": "Text processing, sentiment analysis, and language models."
+  },
+  {
+    "id": 19,
+    "title": "Computer Vision with PyTorch",
+    "career_goal": "AI/ML Engineer",
+    "level": "Advanced",
+    "hours": 15,
+    "value": 9,
+    "description": "Image classification, object detection, and CNNs using PyTorch."
+  },
+  {
+    "id": 20,
+    "title": "MLOps and Model Deployment",
+    "career_goal": "AI/ML Engineer",
+    "level": "Advanced",
+    "hours": 12,
+    "value": 8,
+    "description": "End-to-end ML pipelines, model serving, and monitoring."
+  },
+  {
+    "id": 21,
+    "title": "Reinforcement Learning",
+    "career_goal": "AI/ML Engineer",
+    "level": "Advanced",
+    "hours": 18,
+    "value": 8,
+    "description": "Q-learning, policy gradients, and real-world RL applications."
+  },
+  {
+    "id": 22,
+    "title": "Linux and Shell Scripting",
+    "career_goal": "DevOps Engineer",
+    "level": "Beginner",
+    "hours": 8,
+    "value": 9,
+    "description": "Master Linux command line and write automation shell scripts."
+  },
+  {
+    "id": 23,
+    "title": "Git and Version Control",
+    "career_goal": "DevOps Engineer",
+    "level": "Beginner",
+    "hours": 5,
+    "value": 8,
+    "description": "Git workflows, branching strategies, and collaboration."
+  },
+  {
+    "id": 24,
+    "title": "Docker Containerization",
+    "career_goal": "DevOps Engineer",
+    "level": "Intermediate",
+    "hours": 10,
+    "value": 10,
+    "description": "Containerize applications with Docker and Docker Compose."
+  },
+  {
+    "id": 25,
+    "title": "Kubernetes Orchestration",
+    "career_goal": "DevOps Engineer",
+    "level": "Intermediate",
+    "hours": 14,
+    "value": 9,
+    "description": "Deploy and manage containers at scale using Kubernetes."
+  },
+  {
+    "id": 26,
+    "title": "CI/CD Pipeline with Jenkins",
+    "career_goal": "DevOps Engineer",
+    "level": "Intermediate",
+    "hours": 10,
+    "value": 8,
+    "description": "Automate build, test, and deploy with Jenkins pipelines."
+  },
+  {
+    "id": 27,
+    "title": "AWS Cloud Fundamentals",
+    "career_goal": "DevOps Engineer",
+    "level": "Beginner",
+    "hours": 12,
+    "value": 9,
+    "description": "Core AWS services: EC2, S3, IAM, VPC, and Lambda."
+  },
+  {
+    "id": 28,
+    "title": "Infrastructure as Code with Terraform",
+    "career_goal": "DevOps Engineer",
+    "level": "Advanced",
+    "hours": 12,
+    "value": 9,
+    "description": "Provision cloud infrastructure using Terraform and IaC practices."
+  },
+  {
+    "id": 29,
+    "title": "Monitoring with Prometheus and Grafana",
+    "career_goal": "DevOps Engineer",
+    "level": "Advanced",
+    "hours": 8,
+    "value": 7,
+    "description": "Set up monitoring dashboards and alerting for production systems."
+  },
+  {
+    "id": 30,
+    "title": "Networking Fundamentals",
+    "career_goal": "DevOps Engineer",
+    "level": "Beginner",
+    "hours": 6,
+    "value": 7,
+    "description": "TCP/IP, DNS, HTTP, load balancing, and networking essentials."
+  }
+]
