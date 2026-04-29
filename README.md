@@ -1,14 +1,14 @@
-# 🎯 CareerPath Optimizer
+# CareerPath Optimizer
 
 **A Greedy and Dynamic Programming Based Learning Roadmap Generator**
 
 ---
 
-## 📋 Problem Statement
+## Problem Statement
 
 Students today face an overwhelming number of online courses and resources. Choosing the right combination of courses that maximizes learning value within limited study time is a classic optimization problem. Without a structured approach, students may waste time on low-impact courses or miss high-value ones.
 
-## 🎯 Objective
+## Objective
 
 Build a clean, professional web application where students can:
 1. Select a **career goal** (Full Stack Developer, Data Scientist, AI/ML Engineer, DevOps Engineer).
@@ -20,7 +20,7 @@ The app compares **Greedy Algorithm** and **Dynamic Programming (0/1 Knapsack)**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology   | Purpose                        |
 |-------------|-------------------------------|
@@ -30,14 +30,14 @@ The app compares **Greedy Algorithm** and **Dynamic Programming (0/1 Knapsack)**
 | Matplotlib   | Bar chart visualizations      |
 | JSON         | Course dataset storage        |
 
-- ❌ No database required
-- ❌ No authentication
-- ❌ No external APIs
-- ❌ No AI/LLM integration
+- No database required
+- No authentication
+- No external APIs
+- No AI/LLM integration
 
 ---
 
-## 🧠 Algorithms Used
+## Algorithms Used
 
 ### 1. Greedy Algorithm
 
@@ -95,7 +95,7 @@ else:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 careerpath-optimizer/
@@ -119,7 +119,7 @@ careerpath-optimizer/
 
 ---
 
-## ✨ Features
+## Features
 
 1. **Home Section** — Project overview explaining both algorithms.
 2. **Sidebar Input** — Career goal, skill level, and study hours selection.
@@ -134,7 +134,7 @@ careerpath-optimizer/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -157,7 +157,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 📸 Sample Output
+## Sample Output
 
 ### User Inputs:
 - **Career Goal:** Data Scientist
@@ -188,7 +188,7 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 | Name          | Role                |
 |--------------|---------------------|
@@ -198,6 +198,6 @@ The app will open in your browser at `http://localhost:8501`.
 
 ---
 
-## 📝 Submission Note
+## Submission Note
 
 > This project demonstrates the practical use of **Greedy Algorithm** and **Dynamic Programming** for solving a real-world learning path optimization problem. The application showcases how different algorithmic strategies yield varying results in terms of speed and optimality, providing students with actionable insights for their career development journey.
